@@ -16,9 +16,9 @@ public class Drums implements Instrument{
     @java.lang.Override
     public boolean equals(Object object) {
         if (this == o) return true;
-        if (!(o instanceof Caisse)) return false;
+        if (!(o instanceof Drums)) return false;
 
-        Caisse caisse = (Caisse) o;
+        Drums caisse = (Drums) o;
 
         return size != null ? size.equals(caisse.size) : caisse.size == null;
     }
