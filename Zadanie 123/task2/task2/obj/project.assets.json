@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grenf\\OneDrive\\Документы\\GitHub\\mdk-01.04\\Zadanie 123\\mdk01.04\\mdk01.04.csproj",
-      "projectName": "mdk01.04",
-      "projectPath": "C:\\Users\\grenf\\OneDrive\\Документы\\GitHub\\mdk-01.04\\Zadanie 123\\mdk01.04\\mdk01.04.csproj",
+      "projectUniqueName": "C:\\Users\\grenf\\OneDrive\\Рабочий стол\\task2\\task2\\task2.csproj",
+      "projectName": "task2",
+      "projectPath": "C:\\Users\\grenf\\OneDrive\\Рабочий стол\\task2\\task2\\task2.csproj",
       "packagesPath": "C:\\Users\\grenf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grenf\\OneDrive\\Документы\\GitHub\\mdk-01.04\\Zadanie 123\\mdk01.04\\obj\\",
+      "outputPath": "C:\\Users\\grenf\\OneDrive\\Рабочий стол\\task2\\task2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
